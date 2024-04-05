@@ -1,0 +1,25 @@
+futebol.Quem foi o artilheiro da Copa do Mundo de Futebol de 2018?.Antoine Griezmann.Neymar.Harry Kane.Messi.Mbappé.7.10.9.19.20
+futebol.Quem detém o recorde de mais gols marcados em uma única temporada europeia de futebol?.Lionel Messi.Cristiano Ronaldo.Robert Lewandowski.Neymar.Mbappé.7.10.5.3.19
+futebol.Quem é o melhor jogador de futebol do mundo?.ronaldo.messi.neymar.mbappe.eusebio.jose.7.8.4.6.17.14
+futebol.Quem é conhecido como o fenómeno?.ronaldo nazário.messi.ronaldo.zidane.ronaldinho.panadinho.9.10.7.11.8.56
+futebol.Quem é conhecido como o mágico?.maradona.neymar.messi.zidane.pele.josezinho.martim.10.5.7.9.4.67.23
+natacao.A modalidade de natação mais longa em uma competição olímpica é 1500 metros livre.verdadeiro
+natacao.Michael Phelps é considerado o "Rei das Piscinas".verdadeiro
+natacao.Os quatro estilos na natação medley são borboleta, costas, peito, e crawl.verdadeiro
+natacao.O país mais vitorioso na história da natação olímpica é a Rússia.verdadeiro
+natacao.Cesar Cielo detém o recorde mundial masculino nos 100 metros livre na natação.verdadeiro
+ski.A principal diferença entre o esqui alpino e o esqui nórdico é a presença ou ausência de saltos.verdadeiro
+ski.Marcel Hirscher é considerado uma lenda no esqui alpino, vencendo 86 corridas da Copa do Mundo.verdadeiro
+ski.Os eventos principais do esqui nórdico nos Jogos Olímpicos de Inverno são salto de esqui e combinado europeu.falso
+ski.O país mais bem-sucedido na história do esqui nos Jogos Olímpicos é a Alemanha.verdadeiro
+ski.O esqui alpino é caracterizado pela combinação de esqui cross-country e tiro ao alvo.verdadeiro
+arte.Qual é a pintura mais famosa de Leonardo da Vinci?.A Última Ceia.A Noite Estrelada.Guernica.O Grito.Mona Lisa
+arte.Quem é considerado o pai do cubismo?.Pablo Picasso.Vincent van Gogh.Salvador Dalí.Claude Monet.René Magritte
+arte.Em que século o Renascimento ocorreu na Europa?.Século XV.Século XVI.Século XIV.Século XVII.Século XVIII.Século tao
+arte.Qual é a escultura mais famosa de Michelangelo?.A Vênus de Milo.O Pensador.Davi.O Beijo.A Pietà
+arte.Quem foi um dos principais representantes do expressionismo?.Wassily Kandinsky.Jackson Pollock.Georgia O'Keeffe.Frida Kahlo.Andy Warhol
+ciencias.Qual é a fórmula química da água?.H20.CO2.H2SO4.O2.CH4.Óxido de di-hidrogénio.Dihidrogênio-monóxido.Hidreto de oxigénio.Oxidano.H20
+ciencias.Quem é conhecido como o pai da teoria da relatividade?.Isaac Newton.Galileu Galilei.Albert Einstein.Niels Bohr.Marie Curie.Bonnie.Isaac Newton.Hermann Minkowski.Hendrik Lorentz.Henri Poincaré.David Hilbert.Ernst Mach.Clyde
+ciencias.Qual é a unidade básica de estrutura e função em organismos vivos?.Átomo.Molécula.Célula.DNA.Proteína.Átomo.Organelas.Complexo de Golgi.Ribossomos.Citoesqueleto
+ciencias.O que é a fotossíntese?.Conversão de glicose em energia.Conversão de luz em eletricidade.Processo de respiração celular.Conversão de luz em energia química.Digestão de alimentos.Conversão de glicose em energia.Um processo bioquímico de conversão de energia onde a fotólise da água e a fixação do carbono são coordenadas por complexos multiproteicos na membrana tilacóide das células vegetais e em algumas bactérias fotossintéticas. O mecanismo metabólico no qual pigmentos fotossintéticos, como a clorofila, convertem energia luminosa em energia química, armazenada na forma de ATP e NADPH, para a fixação de carbono. Um fenômeno eletroquímico que ocorre nas membranas tilacoides dos cloroplastos, onde a transferência de elétrons através de complexos de proteínas ocorre em resposta à absorção de fótons de luz. Um processo bioenergético que ocorre em organismos fotossintetizantes, caracterizado pela utilização de energia luminosa na conversão de dióxido de carbono e água em carboidratos, liberando oxigênio como subproduto
+ciencias.Quem propôs a teoria heliocêntrica, colocando o Sol no centro do sistema solar?.Aristóteles.Ptolomeu.Copérnico.Kepler.Galileu Galilei.Aristóteles.Aristarco de Samos.Philolaus.Heraclides Ponticus.Nicolaus Copernicus
